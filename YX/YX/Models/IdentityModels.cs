@@ -30,4 +30,8 @@ namespace YX.Models
             return new ApplicationDbContext();
         }
     }
+
+    enum Days {
+        Sun, Mon, tue, Wed, thu, Fri, Sat 
+    };
 }
