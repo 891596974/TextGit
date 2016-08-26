@@ -105,6 +105,5 @@ C:\Users\yixin1\Desktop\TextGit\YX\YX\bin\zh-Hans\Microsoft.Owin.Security.Facebo
 C:\Users\yixin1\Desktop\TextGit\YX\YX\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
 C:\Users\yixin1\Desktop\TextGit\YX\YX\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\yixin1\Desktop\TextGit\YX\YX\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-C:\Users\yixin1\Desktop\TextGit\YX\YX\obj\Debug\YX.csprojResolveAssemblyReference.cache
 C:\Users\yixin1\Desktop\TextGit\YX\YX\obj\Debug\YX.dll
 C:\Users\yixin1\Desktop\TextGit\YX\YX\obj\Debug\YX.pdb
