@@ -2,12 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Http;
 using System.Web.Mvc;
+using YX.Models;
 
 namespace YX.Controllers
 {
     public class HomeController : Controller
     {
+        //TextViewModels _textViewModels;
         public ActionResult Index()
         {
             return View();
@@ -26,5 +29,6 @@ namespace YX.Controllers
 
             return View();
         }
+       
     }
 }

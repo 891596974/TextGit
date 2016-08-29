@@ -20,6 +20,10 @@ namespace YX
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            //返回json
+            HttpConfiguration config = GlobalConfiguration.Configuration;
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
         }
     }
 }
