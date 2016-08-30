@@ -1,0 +1,5 @@
+C:\Users\yixin1\Desktop\TextGit\YX\YX.SQLhelp.DLL\bin\Debug\YX.SQLhelp.DLL.dll
+C:\Users\yixin1\Desktop\TextGit\YX\YX.SQLhelp.DLL\bin\Debug\YX.SQLhelp.DLL.pdb
+C:\Users\yixin1\Desktop\TextGit\YX\YX.SQLhelp.DLL\obj\Debug\YX.SQLhelp.DLL.csprojResolveAssemblyReference.cache
+C:\Users\yixin1\Desktop\TextGit\YX\YX.SQLhelp.DLL\obj\Debug\YX.SQLhelp.DLL.dll
+C:\Users\yixin1\Desktop\TextGit\YX\YX.SQLhelp.DLL\obj\Debug\YX.SQLhelp.DLL.pdb

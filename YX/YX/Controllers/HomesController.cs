@@ -21,6 +21,11 @@ namespace YX.Controllers
         {
             return View();
         }
+        //Love wedding()唯爱婚宴
+        public ActionResult Love_Wedding()
+        {
+            return View();
+        }
 
     }
 }

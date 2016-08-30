@@ -313,6 +313,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Homes\Index.cshtml" />
     <Content Include="Views\Homes\Restaurant.cshtml" />
+    <Content Include="Views\Homes\Love_Wedding.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

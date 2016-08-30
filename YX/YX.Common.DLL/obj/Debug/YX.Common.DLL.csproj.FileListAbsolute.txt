@@ -1,0 +1,5 @@
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Common.DLL\bin\Debug\YX.Common.DLL.dll
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Common.DLL\bin\Debug\YX.Common.DLL.pdb
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Common.DLL\obj\Debug\YX.Common.DLL.csprojResolveAssemblyReference.cache
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Common.DLL\obj\Debug\YX.Common.DLL.dll
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Common.DLL\obj\Debug\YX.Common.DLL.pdb
