@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YX", "YX\YX.csproj", "{0A10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YX.Logger.DLL", "YX.Logger.DLL\YX.Logger.DLL.csproj", "{50ED5043-722E-44A1-92C2-323B59989B0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YX.Common.DLL", "YX.Common.DLL\YX.Common.DLL.csproj", "{C3A34905-6E88-4BDE-9222-EA5F5AF317FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50ED5043-722E-44A1-92C2-323B59989B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50ED5043-722E-44A1-92C2-323B59989B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50ED5043-722E-44A1-92C2-323B59989B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A34905-6E88-4BDE-9222-EA5F5AF317FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A34905-6E88-4BDE-9222-EA5F5AF317FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A34905-6E88-4BDE-9222-EA5F5AF317FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A34905-6E88-4BDE-9222-EA5F5AF317FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

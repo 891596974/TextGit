@@ -10,28 +10,17 @@ namespace YX.Controllers
 {
     public class HomesController : Controller
     {
-        // GET: Homes
-        TextViewModels _textViewModels;
-        public HomesController()
-        {
-            //_textViewModels = new TextViewModels();
-        }
 
         public ActionResult Index()
         {
             return View();
         }
-
-        [IAuthorize]
-        [HttpPost]
-        public ActionResult Text()
+        //餐厅美食
+        //    Homes/Restaurant
+        public ActionResult Restaurant()
         {
-            _textViewModels = new TextViewModels()
-            {
-                name = "OK",
-                messeges = "成功"
-            };
-            return Json(_textViewModels);
+            return View();
         }
+
     }
 }
