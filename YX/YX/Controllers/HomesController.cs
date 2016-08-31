@@ -26,6 +26,15 @@ namespace YX.Controllers
         {
             return View();
         }
-
+        //Business exclusive会务专属
+        public ActionResult Business_exclusive()
+        {
+            return View();
+        }
+        //Leisure facilities休闲设施
+        public ActionResult Leisure_facilities()
+        {
+            return View();
+        }
     }
 }
