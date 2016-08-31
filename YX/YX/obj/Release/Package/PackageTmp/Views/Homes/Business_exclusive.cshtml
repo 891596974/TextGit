@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "会务专属";
+}
+<div class="headers">
+    <img onclick="back();" src="~/images/home_on.png" class="headers_img" />
+    <div style="padding-top:20px"><span style="color:white;margin-left:auto;margin-right:auto;padding-right:30px;text-align:center">会务专属</span></div>
+</div>
+
+<div class="swiper-container" style="padding-top:60px;">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide"><img src="~/images/page1.jpg" /></div>
+        <div class="swiper-slide"><img src="~/images/page2.jpg" /></div>
+        <div class="swiper-slide"><img src="~/images/page3.jpg" /></div>
+    </div>
+    <!-- 如果需要分页器 -->
+    <div class="swiper-pagination"></div>
+    <!-- 如果需要导航按钮 -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+    <!-- 如果需要滚动条 -->
+    @*<div class="swiper-scrollbar"></div>*@
+</div>
+<div style="text-align:center;margin-top:20px;">
+    <a href="#">
+        <img src="~/Homes/images/page1.jpg" style="height:600px;width:95%;margin-left:auto;margin-right:auto" />
+        <div style="text-align:left;margin-top:40px;margin-left:60px;">
+            会议场所
+        </div>
+    </a>
+    <div style="margin-top:40px;height:1px;width:95%;background:#808080;margin-left:auto;margin-right:auto"></div>
+</div>
+
+<div style="text-align:center;margin-top:30px;">
+    <a href="#">
+        <img src="~/Homes/images/page1.jpg" style="height:600px;width:95%;margin-left:auto;margin-right:auto" />
+        <div style="text-align:left;margin-top:40px;margin-left:60px;">
+           会议服务
+        </div>
+        <div style="margin-top:40px;height:1px;width:95%;margin-left:auto;margin-right:auto"></div>
+    </a>
+</div>
+
+<script type="text/javascript">
+    var mySwiper = new Swiper('.swiper-container', {
+        //direction: 'vertical',
+        direction: 'horizontal',//水平
+        loop: true,
+        autoplay: 800,//自动滚动
+        autoplayDisableOnInteraction: false,//用户操作后,继续滚动
+        // 如果需要分页器
+        pagination: '.swiper-pagination',
+        // 如果需要前进后退按钮
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+
+        // 如果需要滚动条
+        //scrollbar: '.swiper-scrollbar',
+    });
+    function back() {
+        alert("oooo");
+       // history.back();
+    }
+</script>
+
+

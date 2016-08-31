@@ -1,0 +1,5 @@
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Logger.DLL\bin\Release\YX.Logger.DLL.dll
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Logger.DLL\bin\Release\YX.Logger.DLL.pdb
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Logger.DLL\obj\Release\YX.Logger.DLL.csprojResolveAssemblyReference.cache
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Logger.DLL\obj\Release\YX.Logger.DLL.dll
+C:\Users\yixin1\Desktop\TextGit\YX\YX.Logger.DLL\obj\Release\YX.Logger.DLL.pdb

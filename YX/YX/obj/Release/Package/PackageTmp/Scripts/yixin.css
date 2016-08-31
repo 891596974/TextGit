@@ -1,0 +1,49 @@
+﻿body,div{
+    padding:0px;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+} 
+a:link {color:#000000; text-decoration:none;} 
+a:visited {color:#000000;text-decoration:none;}
+html{
+width:100%;
+overflow-x:hidden;
+}
+.swiper-container {
+    width:auto;
+    height:auto;
+    text-align:center;
+} 
+.swiper-slide img{height:400px;width:100%; }
+.pages{width:100%;height:80%}
+.footers{height:60px;width:100%;bottom:0px;position:fixed;background:#808080}
+.tab{
+    width:auto;
+    list-style: none;
+    margin-bottom:0;
+    text-align:center;  
+    padding:0px;
+}
+li{
+    float: left;
+    text-align:center;
+    height:50px;
+    width:20%;
+    padding: 0 0px;
+    margin-right:0px;
+    cursor: pointer;
+    font-size: 14px;
+    list-style-type:none;
+}
+li img{height:20px;width:20px;}
+.items{display:inline;height:auto;width:auto;}
+.items img{height:80px;width:80px;margin-left:10px;margin-top:10px;}
+.items div{display:inline;margin:auto;width:100%;height:auto}
+.item{margin-top:10px;position:absolute;width:100%;height:auto}
+.right{float:right;margin-right:10px;}
+.items_page{margin-bottom:5px;}
+.headers{height:60px;width:100%;top:0px;position:fixed;background:#14469f;text-align:center}
+.headers_img{float: left; height:25px; width:25px;margin-top:auto;padding:15px;}
+.div_js{text-align:center;margin-top:70px;display:inline;}
+.div_js_img {width:48%;display:inline-block;text-align:center}
